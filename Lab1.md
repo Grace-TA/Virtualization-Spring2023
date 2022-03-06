@@ -20,9 +20,10 @@
 
 <div align="center">
      <img 
-      src="https://user-images.githubusercontent.com/55008636/156907011-e982ba53-fbbc-4e17-8aba-ee6e899fbf08.png" 
+      src="https://user-images.githubusercontent.com/89304181/156908849-47d3a24a-0f1a-44cd-b340-d7b72da2eb5e.png" 
       width="50%" height="50%">
     </div>
+  
     
 ## Lab 1-2 安裝VMWare & Download Link
 
