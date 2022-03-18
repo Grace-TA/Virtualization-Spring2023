@@ -1,17 +1,16 @@
-# Lab 2-3 請加入一台Win11 Professional Virtual Machine
+# Lab 2-3 請加入一台Win11 Professional Virtual Machine: 主要安裝與測試過程
 
-## 主要安裝與測試過程
 
-### 1. 硬體配置
+## 1. 硬體配置
 
 ![image](https://user-images.githubusercontent.com/89304181/158962820-8c174ce9-27f2-43d4-adda-1dfcdc755b2c.png)
 
 
-### 2. 選擇Windows 11 Professional 
+## 2. 選擇Windows 11 Professional 
 
 ![image](https://user-images.githubusercontent.com/89304181/158962985-9d9debcc-0927-496f-9686-d83b114fd32a.png)
 
-### 3. 完成安裝後的登入畫面
+## 3. 完成安裝後的登入畫面
 
 A. 用Outlook e-mail帳號設定 (e.g., Grace TA) by HP i7 NB
 
@@ -30,7 +29,7 @@ B. 用Offline Account (e.g., grace2022) by HP i5 NB
       width="50%" height="50%">
     </div>
 
-### 4. 安裝中文環境
+## 4. 安裝中文環境
 
 <div align="center">
      <img 
@@ -44,7 +43,7 @@ B. 用Offline Account (e.g., grace2022) by HP i5 NB
       width="50%" height="50%">
     </div>
     
-### 5. 讓Windows 11 VM 與 Windows 10 主機可以相互PING到對方
+## 5. 讓Windows 11 VM 與 Windows 10 主機可以相互PING到對方
 
 * Windows 11 VM IP: 192.168.85.152
 
