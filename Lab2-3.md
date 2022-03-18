@@ -15,11 +15,20 @@
 
 A. 用Outlook e-mail帳號設定 (e.g., Grace TA) by HP i7 NB
 
-![image](https://user-images.githubusercontent.com/89304181/158963063-c3961a76-690c-4ba5-97b0-fc4c1ab3aa95.png)
+<div align="center">
+     <img 
+      src="https://user-images.githubusercontent.com/89304181/158963063-c3961a76-690c-4ba5-97b0-fc4c1ab3aa95.png" 
+      width="50%" height="50%">
+    </div>
 
 B. 用Offline Account (e.g., grace2022) by HP i5 NB
 
-![image](https://user-images.githubusercontent.com/89304181/158963450-ab492eef-979d-4b5b-a2f7-af58a37be960.png)
+
+<div align="center">
+     <img 
+      src="https://user-images.githubusercontent.com/89304181/158963450-ab492eef-979d-4b5b-a2f7-af58a37be960.png" 
+      width="50%" height="50%">
+    </div>
 
 ### 4. 安裝中文環境
 
