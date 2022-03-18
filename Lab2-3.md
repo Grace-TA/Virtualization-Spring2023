@@ -55,5 +55,5 @@ B. 用Offline Account (e.g., grace2022) by HP i5 NB
 ![image](https://user-images.githubusercontent.com/89304181/158964137-ff27b56b-edd4-49f0-ae62-c9600c53c1aa.png)
 
 
-> Note: Windows 11 VM的公用網路Firewall關閉後, 應該就可以由Windows10主機PING到Windows 11 VM
+> Note: Windows 11 VM的公用網路Firewall關閉後, 應該就可以相互Ping到對方了. (Windows10主機 vs. Windows 11 VM)
 
