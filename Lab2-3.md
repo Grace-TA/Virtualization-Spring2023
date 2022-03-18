@@ -26,16 +26,24 @@ B. 用Offline Account (e.g., grace2022) by HP i5 NB
 
 <div align="center">
      <img 
-      src="https://user-images.githubusercontent.com/89304181/158963450-ab492eef-979d-4b5b-a2f7-af58a37be960.png" 
+      src="https://user-images.githubusercontent.com/89304181/158963605-8632d889-69ae-4350-801b-9d0f1573fd77.png" 
       width="50%" height="50%">
     </div>
 
 ### 4. 安裝中文環境
 
-![image](https://user-images.githubusercontent.com/89304181/158963605-8632d889-69ae-4350-801b-9d0f1573fd77.png)
-
-![image](https://user-images.githubusercontent.com/89304181/158963765-63c6c1eb-2bce-4ad7-ba53-c7e3bb3c309f.png)
-
+<div align="center">
+     <img 
+      src="https://user-images.githubusercontent.com/89304181/158963605-8632d889-69ae-4350-801b-9d0f1573fd77.png" 
+      width="50%" height="50%">
+    </div>
+    
+<div align="center">
+     <img 
+      src="https://user-images.githubusercontent.com/89304181/158963765-63c6c1eb-2bce-4ad7-ba53-c7e3bb3c309f.png" 
+      width="50%" height="50%">
+    </div>
+    
 ### 5. 讓Windows 11 VM 與 Windows 10 主機可以相互PING到對方
 
 Windows 11 VM IP: 192.168.85.152
