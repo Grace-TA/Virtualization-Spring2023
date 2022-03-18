@@ -1,4 +1,7 @@
-# Lab 2-3 請加入一台Win11 Professional Virtual Machine: 主要安裝與測試過程
+# Lab 2-3 請加入一台Win11 Professional Virtual Machine
+
+
+> 主要安裝與測試過程如下:
 
 
 ## 1. 硬體配置
