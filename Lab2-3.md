@@ -46,11 +46,12 @@ B. 用Offline Account (e.g., grace2022) by HP i5 NB
     
 ### 5. 讓Windows 11 VM 與 Windows 10 主機可以相互PING到對方
 
-Windows 11 VM IP: 192.168.85.152
-Windows 10 主機: 192.168.90.6
+* Windows 11 VM IP: 192.168.85.152
+
+* Windows 10 主機: 192.168.90.6
 
 ![image](https://user-images.githubusercontent.com/89304181/158964137-ff27b56b-edd4-49f0-ae62-c9600c53c1aa.png)
 
 
-Note: Windows 11 VM的公用網路Firewall關閉後, 應該就可以由Windows10主機PING到Windows 11 VM
+> Note: Windows 11 VM的公用網路Firewall關閉後, 應該就可以由Windows10主機PING到Windows 11 VM
 
