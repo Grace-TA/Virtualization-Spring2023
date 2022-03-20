@@ -1,4 +1,4 @@
-# Lab 2-3 請加入一台Win11 Professional Virtual Machine
+# Lab 2-3 請加入一台Win11 Professional的Virtual Machine
 
 ## A. 簡介一下Windows 11以及安裝後的體驗
 
