@@ -1,7 +1,7 @@
 # Lab 2-3 請加入一台Win11 Professional的Virtual Machine
 
 ## A. 簡介一下Windows 11以及安裝後的體驗
-
+> Windows 11是微軟於2021年推出的Windows NT系列作業系統，為Windows 10的後繼者。正式版本於2021年10月5日發行[7][8]，並開放給符合條件的Windows 10裝置透過Windows Update免費升級。[9][10][11] Windows 11對於受到已取消的Windows 10X影響的Windows shell進行主要更改，包括重新設計的開始功能表、工作列上單獨的「小工具」面板取代「動態磚」、從工作列建立以群組能最小化和恢復的編排視窗，以及從Xbox Series X/S繼承的新遊戲技術，例如相容硬體上的Auto HDR和DirectStorage。Internet Explorer被基於Blink排版引擎的Microsoft Edge取代，而Edge的IE模式保留了IE的核心，Microsoft Teams則被整合至Windows shell中。微軟還宣布計劃讓通過Microsoft Store發布的軟體提供更大的靈活性。 與Windows 10相比，微軟提高了硬體需求，且僅支援使用英特爾酷睿第8代或更新的處理器（少數的第7代處理器例外）、AMD Zen+或更新的處理器及高通驍龍850或更新的處理器的裝置。Windows 11專為UEFI安全開機和信賴平台模組（TPM） 2.0支援而構建。此外，Windows 11不再支援32位元x86架構或使用BIOS韌體的系統。Windows 11自發布後收到褒貶不一的評價；關於該操作系統預發行的報導集中在其更嚴格的硬體需求上，討論這些需求是否合法地旨在提高Windows的安全性，還是將使用者追加銷售到更新裝置的策略，以及與這些變化相關的電子垃圾。發行後，Windows 11因其改進的視覺設計、視窗管理和更加注重安全性而獲得正面評價，但因其使用者介面方面的回歸和修改而受到批評。 Source: https://zh.wikipedia.org/wiki/Windows_11
 
 ## B. 請自由截取3張有關於Windows 11的安裝過程, 並更新於GitHub.
 
