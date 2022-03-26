@@ -33,7 +33,7 @@ https://www.android-x86.org/
 
 ### Check Network & Communication
 
-![image](https://user-images.githubusercontent.com/89304181/160242055-7ef8320e-bc6d-438d-938a-acfdd1d8f697.png)
+![image](https://user-images.githubusercontent.com/89304181/160243771-43901134-8802-4074-83e9-c8c0f8748647.png)
 
 
 ### 我的新Android的VM #2 (i.e., [LineageOS](https://zh.wikipedia.org/wiki/LineageOS))
