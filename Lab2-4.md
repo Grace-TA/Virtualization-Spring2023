@@ -36,7 +36,7 @@ https://www.android-x86.org/
 ![image](https://user-images.githubusercontent.com/89304181/160242055-7ef8320e-bc6d-438d-938a-acfdd1d8f697.png)
 
 
-### 我的新Android的VM #2 (i.e., LineageOS)
+### 我的新Android的VM #2 (i.e., [LineageOS](https://zh.wikipedia.org/wiki/LineageOS))
 LineageOS（也稱Lineage OS、Lineage OS Android Distribution）是一個面向智慧型手機和平板電腦的自由、免費、開放原始碼的Android系統分支。它是深受歡迎的客製化ROM CyanogenMod的繼任者。它在2016年12月Cyanogen公司突然宣布停止開發並關閉專案基礎設施後復刻而生
 
 <img width="335" alt="image" src="https://user-images.githubusercontent.com/89304181/160243429-088b2e6d-1ceb-488c-b3f3-2e1c7e5a5c63.png">
