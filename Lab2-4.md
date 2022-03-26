@@ -25,5 +25,10 @@ https://www.android-x86.org/
 
 <img width="509" alt="image" src="https://user-images.githubusercontent.com/89304181/160241023-d42d0e27-3cff-4dcc-adb6-3a2bbf9f834e.png">
 
+### Play Store
+
 ![image](https://user-images.githubusercontent.com/89304181/160241044-a43eead9-8775-4672-b6f0-8d2488e94588.png)
 
+### Check Network & Communication
+
+![image](https://user-images.githubusercontent.com/89304181/160242055-7ef8320e-bc6d-438d-938a-acfdd1d8f697.png)
