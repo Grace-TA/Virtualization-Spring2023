@@ -23,7 +23,7 @@ https://www.android-x86.org/
 
 ## 過程與結果 (login by TA Account: ta2021.vnu@gmail.com)
 
-### 我的新Android的VM
+### 我的新Android的VM #1 (i.e., Android9)
 
 <img width="509" alt="image" src="https://user-images.githubusercontent.com/89304181/160241023-d42d0e27-3cff-4dcc-adb6-3a2bbf9f834e.png">
 
@@ -34,3 +34,14 @@ https://www.android-x86.org/
 ### Check Network & Communication
 
 ![image](https://user-images.githubusercontent.com/89304181/160242055-7ef8320e-bc6d-438d-938a-acfdd1d8f697.png)
+
+
+### 我的新Android的VM #2 (i.e., LineageOS)
+LineageOS（也稱Lineage OS、Lineage OS Android Distribution）是一個面向智慧型手機和平板電腦的自由、免費、開放原始碼的Android系統分支。它是深受歡迎的客製化ROM CyanogenMod的繼任者。它在2016年12月Cyanogen公司突然宣布停止開發並關閉專案基礎設施後復刻而生
+
+<img width="335" alt="image" src="https://user-images.githubusercontent.com/89304181/160243429-088b2e6d-1ceb-488c-b3f3-2e1c7e5a5c63.png">
+
+<img width="575" alt="image" src="https://user-images.githubusercontent.com/89304181/160243635-c449b80b-e2e4-4d77-85d9-46768d030cbf.png">
+
+
+
