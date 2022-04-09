@@ -1,6 +1,6 @@
 # Lab3: VM於Ubuntu Linux 應用: 系統管理快速入門, W7 - W9
 
-## Lab3-1. 為什麼要學Linux系統管理? + 一點點暖身
+## Lab3-1. 為什麼要學Linux系統管理? + 起手式
 
 ![image](https://user-images.githubusercontent.com/89304181/162578801-aec7945d-7f88-4c06-b609-70afe11a7404.png)
 
