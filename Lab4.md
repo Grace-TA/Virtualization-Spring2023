@@ -18,4 +18,23 @@
 
 ## Lab 4-2 BASH Shell介紹與實戰
 
+### 1. 創建並執行第一個 BASH 程序
 
+![image](https://user-images.githubusercontent.com/89304181/163705177-e0cedd71-30b8-4b76-bb8e-2c792e67c0d3.png)
+
+### 2. 來玩個簡單的加減乘除
+
+![image](https://user-images.githubusercontent.com/89304181/163705209-c807fc5b-50b1-416a-939c-6fbad1724881.png)
+
+### 3. 使用While Loop
+
+![image](https://user-images.githubusercontent.com/89304181/163705219-7713d706-a95b-43a6-8a33-a87b6102707b.png)
+
+### 4. 使用For Loop
+
+![image](https://user-images.githubusercontent.com/89304181/163705244-44a13385-7d97-420d-bf39-89f6376b4ef9.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/89304181/163705164-8a4e7f03-fc1c-4af9-aed9-154c5f90759b.png)
