@@ -35,31 +35,26 @@
 
 ### 1. 創建並執行第一個 BASH 程序
 
-<div align="center">
-     <img 
-      src="https://user-images.githubusercontent.com/89304181/163705177-e0cedd71-30b8-4b76-bb8e-2c792e67c0d3.png" 
-      width="50%" height="50%">
-    </div>
-    
+<img width="566" alt="image" src="https://user-images.githubusercontent.com/89304181/163705177-e0cedd71-30b8-4b76-bb8e-2c792e67c0d3.png" >    
 
 ### 2. 來玩個簡單的加減乘除
 
-![image](https://user-images.githubusercontent.com/89304181/163705209-c807fc5b-50b1-416a-939c-6fbad1724881.png)
+<img width="566" alt="image" src="https://user-images.githubusercontent.com/89304181/163705209-c807fc5b-50b1-416a-939c-6fbad1724881.png" >    
 
 ### 3. 使用While Loop
 
-![image](https://user-images.githubusercontent.com/89304181/163705219-7713d706-a95b-43a6-8a33-a87b6102707b.png)
+<img width="566" alt="image" src="https://user-images.githubusercontent.com/89304181/163705219-7713d706-a95b-43a6-8a33-a87b6102707b.png" >    
 
 ### 4. 使用For Loop
 
-![image](https://user-images.githubusercontent.com/89304181/163705244-44a13385-7d97-420d-bf39-89f6376b4ef9.png)
+<img width="566" alt="image" src="https://user-images.githubusercontent.com/89304181/163705244-44a13385-7d97-420d-bf39-89f6376b4ef9.png" >    
 
 ### 5. 如何讓使用者輸入?
 
-![image](https://user-images.githubusercontent.com/89304181/163705288-91938466-2940-4ba8-97ce-f1ac7a4d7b72.png)
+<img width="566" alt="image" src="https://user-images.githubusercontent.com/89304181/163705288-91938466-2940-4ba8-97ce-f1ac7a4d7b72.png" >    
 
 ### 6. 如何自動產生9x9表, 並自動將結果輸出到table99.txt中?
 
-![image](https://user-images.githubusercontent.com/89304181/163705300-ee67ea25-df45-49a7-98e7-1c3452e6adaf.png)
+<img width="566" alt="image" src="https://user-images.githubusercontent.com/89304181/163705300-ee67ea25-df45-49a7-98e7-1c3452e6adaf.png" >    
 
 [return to content](#000) 
