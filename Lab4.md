@@ -1,5 +1,18 @@
 # Lab4: VM於Ubuntu Linux 應用: 系統管理常用指令與Bash介紹與練習
 
+<a name="000"/>
+---
+
+## 目錄(Table of Contents)
+
+[Lab 4-1 Linux 常用文件指令](#111)
+
+[Lab 4-2 BASH Shell介紹與實戰](#222)
+
+
+---
+<a name="111"/>
+
 ## Lab 4-1 Linux 常用文件指令
 
 <img width="566" alt="image" src="https://user-images.githubusercontent.com/89304181/163697095-4a2b72cf-e2c2-4c00-8b72-c4f44bbaae47.png">
@@ -14,7 +27,10 @@
 
 <img width="578" alt="image" src="https://user-images.githubusercontent.com/89304181/163697174-49d80776-383c-41c7-84cb-b2497defa707.png">
 
+[return to content](#000) 
 
+---
+<a name="222"/>
 
 ## Lab 4-2 BASH Shell介紹與實戰
 
@@ -34,7 +50,12 @@
 
 ![image](https://user-images.githubusercontent.com/89304181/163705244-44a13385-7d97-420d-bf39-89f6376b4ef9.png)
 
+### 5. 如何讓使用者輸入?
 
+![image](https://user-images.githubusercontent.com/89304181/163705288-91938466-2940-4ba8-97ce-f1ac7a4d7b72.png)
 
+### 6. 如何自動產生9x9表, 並自動將結果輸出到table99.txt中?
 
-![image](https://user-images.githubusercontent.com/89304181/163705164-8a4e7f03-fc1c-4af9-aed9-154c5f90759b.png)
+![image](https://user-images.githubusercontent.com/89304181/163705300-ee67ea25-df45-49a7-98e7-1c3452e6adaf.png)
+
+[return to content](#000) 
