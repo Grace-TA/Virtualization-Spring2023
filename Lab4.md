@@ -35,7 +35,12 @@
 
 ### 1. 創建並執行第一個 BASH 程序
 
-![image](https://user-images.githubusercontent.com/89304181/163705177-e0cedd71-30b8-4b76-bb8e-2c792e67c0d3.png)
+<div align="center">
+     <img 
+      src="https://user-images.githubusercontent.com/89304181/163705177-e0cedd71-30b8-4b76-bb8e-2c792e67c0d3.png" 
+      width="50%" height="50%">
+    </div>
+    
 
 ### 2. 來玩個簡單的加減乘除
 
