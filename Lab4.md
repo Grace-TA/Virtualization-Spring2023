@@ -1,7 +1,6 @@
 # Lab4: VM於Ubuntu Linux 應用: 系統管理常用指令與Bash介紹與練習
 
 <a name="000"/>
----
 
 ## 目錄(Table of Contents)
 
@@ -10,7 +9,7 @@
 [Lab 4-2 BASH Shell介紹與實戰](#222)
 
 
----
+
 <a name="111"/>
 
 ## Lab 4-1 Linux 常用文件指令
@@ -29,7 +28,7 @@
 
 [return to content](#000) 
 
----
+
 <a name="222"/>
 
 ## Lab 4-2 BASH Shell介紹與實戰
