@@ -28,23 +28,20 @@
 
 ![image](https://user-images.githubusercontent.com/89304181/167280764-b95fa2d0-97db-4ddc-ba89-cacf6cc76d9d.png)
 
-
-
-
-## Lab 5-3 Apache 網頁伺服器應用
-
-
-### 1. VNU
+### 最後, 來玩點不一樣的, 可否把校網搬過來試試呢? 
 
 ![image](https://user-images.githubusercontent.com/89304181/167281015-85530856-20e9-46f7-8071-d1b3f3a10e8d.png)
 
 
-### 2. Clock 
+## Lab 5-3 Apache 網頁伺服器應用
+
+### 1. Clock 
 
 ![image](https://user-images.githubusercontent.com/89304181/167281184-b2c67edd-ae76-4069-a180-887e14d02a73.png)
 
 
-### 3. BMI Calculator
+### 2. BMI Calculator
 
 ![image](https://user-images.githubusercontent.com/89304181/167281188-b7a44c94-19d4-47de-a43a-f90172d922d6.png)
+
 
