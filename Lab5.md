@@ -14,6 +14,21 @@
 
 ## Lab 5-2 Apache 網頁伺服器起手式
 
+### 你在Apache Server的第1個Web Page (e.g., index.html) 
+
+![image](https://user-images.githubusercontent.com/89304181/167280759-8275fdea-59ef-46a0-b0ee-b4e34d4e8f50.png)
+
+> $ sudo gedit /var/www/html/index.html
+
+### 第2個Web Page: 建一個新的Web Page (e.g., exp2.html)
+
+![image](https://user-images.githubusercontent.com/89304181/167280761-51ec33e9-36d5-4b79-9cee-a8197082a1cc.png)
+
+### 第3個Web Page: 如何用目錄來管理不同的網頁呢? (e.g., /var/www/html/vt2022/exp2.html)
+
+![image](https://user-images.githubusercontent.com/89304181/167280764-b95fa2d0-97db-4ddc-ba89-cacf6cc76d9d.png)
+
+
 
 
 ## Lab 5-3 Apache 網頁伺服器應用
