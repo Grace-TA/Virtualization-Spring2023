@@ -35,6 +35,7 @@
 
 ## Lab 5-3 Apache 網頁伺服器應用
 
+### 實戰1 - 依自己的喜愛與經驗, 自由發揮製作或是建置二個您曾做過或是在看到不錯的網站, 並將此網路建於您的Apache Web Server中, 以下提供兩個Mini Project (i.e., Clock, BMI Calculator), 給大家參考一下.
 ### 1. Clock 
 
 ![image](https://user-images.githubusercontent.com/89304181/167281184-b2c67edd-ae76-4069-a180-887e14d02a73.png)
@@ -43,5 +44,9 @@
 ### 2. BMI Calculator
 
 ![image](https://user-images.githubusercontent.com/89304181/167281188-b7a44c94-19d4-47de-a43a-f90172d922d6.png)
+
+### 實戰2 - 將自己上學期或這學期的Git Hub資源庫下載到您的Apache Web Server, 並且用Windows中的Browser來體驗一下. 細節可參考以下結果:
+
+![image](https://user-images.githubusercontent.com/89304181/169656674-0a6173cb-b8e9-4bc0-8251-c8cd871e4bd1.png)
 
 
