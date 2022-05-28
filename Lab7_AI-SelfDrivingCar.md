@@ -1,6 +1,6 @@
 # Lab7: Ubuntu VM - Python虛擬環境應用: AI自駕車路徑預測
 
-## Lab 7-1 Lab 7-1 AI Self Driving Car - Lane and Path Detection (車道和路徑偵測)
+## Lab 7-1 AI Self Driving Car - Lane and Path Detection (車道和路徑偵測)
 
 
 ![image](https://github.com/Grace-TA/Virtualization-Spring2022/blob/main/Reference/sdc-main.gif)
