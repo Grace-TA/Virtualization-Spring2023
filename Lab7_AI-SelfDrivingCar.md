@@ -3,7 +3,7 @@
 
 ## Lab 7-1 Folk我們想要研究的Respository, 並且來點小修改, 最後再克隆一份到我們的VM Ubuntu
 
-完成Folk Respository: https://github.com/Grace-TA/modeld
+完成Folk與修改的Respository: https://github.com/Grace-TA/modeld
 
 ![image](https://user-images.githubusercontent.com/89304181/173194354-b7eae9a6-4f79-48bc-888f-a04f5a0b715d.png)
 
