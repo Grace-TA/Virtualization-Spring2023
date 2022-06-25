@@ -17,8 +17,10 @@
 
 
 
-## Reference: 
-1. 完成Folk與修改的Respository: https://github.com/Grace-TA/modeld
-2. [openpilot Study](https://github.com/horacec371/op-study)
+## Lab 7-4 更新Forked Repository & 完成我們的自駕車離線模擬程式   
 
-![image](https://github.com/horacec371/op-study/blob/main/image/JL11_2X2_20211206.gif)
+1. 更新我們Folk的Respository: https://github.com/Grace-TA/modeld
+2. A Simulator: 將所有的即時動態結果合併在一起
+
+https://user-images.githubusercontent.com/89304181/175773024-c54b0b5d-0c4f-47dc-a344-0d4750d8eaa4.mp4
+
