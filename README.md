@@ -1,6 +1,6 @@
 # 虛擬化系統與實作
 
-Understand and practice how to use VMWare to experience virtualization technology
+Understand and practice how to use VMWare & Docker to experience virtualization technology
 * Lab1: 起手式 - 虛擬化技術? 虛擬化技術機器? VMWare + 我的第一個Linux VM
 * Lab2: 確認本機的硬體資源, 以及VMWare的相關設定, Win11 VM & Android VM (3W)
 * Lab3: VM於Ubuntu Linux 應用 - 系統管理快速入門
