@@ -24,20 +24,23 @@
 
 ### 1. 單目深度估計, 201-vision-monodepth.ipynb
 
-* flat-coated retriever (平塗獵犬)
+#### flat-coated retriever (平塗獵犬)
+
 ![image](https://user-images.githubusercontent.com/89304181/176076975-e95c5c3a-6283-4924-b56f-e5c781b8a005.png)
 
-* 請找一位Show Girl來試試 (自由發揮)
+#### 請找一位Show Girl來試試 (自由發揮)
+
 ![image](https://user-images.githubusercontent.com/89304181/176076987-a7a92098-62f7-4db1-a2c8-328abf6be690.png)
 
 ### 2. 自動背景去除與更換, 205-vision-background-removal.ipynb
 
-<img width="390" alt="image" src="https://user-images.githubusercontent.com/89304181/176077077-a859c40a-5550-42ed-ba7e-05c4a40e2a76.png">
+![image](https://user-images.githubusercontent.com/89304181/176077077-a859c40a-5550-42ed-ba7e-05c4a40e2a76.png)
 
 ## Lab 8-4 OpenVINO: 照片轉動漫, 風格遷移
 
 ### 1. 照片轉動漫, 206-vision-paddlegan-anime.ipynb (自由發揮)
-<img width="368" alt="image" src="https://user-images.githubusercontent.com/89304181/176077272-16bba82a-08f0-4f85-9289-4db3d44184e2.png">
+
+![image](https://user-images.githubusercontent.com/89304181/176077272-16bba82a-08f0-4f85-9289-4db3d44184e2.png)
 
 ### 2. 神經風格遷移, 212-onnx-style-transfer.ipynb (自由發揮)
 
