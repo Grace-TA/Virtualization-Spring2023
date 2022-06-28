@@ -1,13 +1,14 @@
 # 虛擬化系統與實作
 
 Understand and practice how to use VMWare & Docker to experience virtualization technology
-* Lab1: 起手式 - 虛擬化技術? 虛擬化技術機器? VMWare + 我的第一個Linux VM
+* Lab1: 起手式 - 虛擬化技術? 虛擬化技術機器? VMWare + 我的第一個Linux VM (2W)
 * Lab2: 確認本機的硬體資源, 以及VMWare的相關設定, Win11 VM & Android VM (3W)
-* Lab3: VM於Ubuntu Linux 應用 - 系統管理快速入門
+* Lab3: VM於Ubuntu Linux 應用 - 系統管理快速入門 (2W)
 * Lab4: VM於Ubuntu Linux 應用 - 系統管理常用指令與Bash介紹與練習 (3W)
 * Lab5: Ubuntu VM - 安裝 Apache 網頁伺服器與其應用 (3W)
-* Lab6: Ubuntu VM - Python虛擬環境介紹與應用
-* Lab7: Ubuntu VM - Python虛擬環境應用: AI自駕車路徑預測
+* Lab6: Ubuntu VM - Python虛擬環境介紹與應用 (2W)
+* Lab7: Ubuntu VM - Python虛擬環境應用: AI自駕車路徑預測 (3W)
+* Lab8: Ubuntu VM - Python虛擬環境應用: OpenVINO™ (2W)
 
 ## 什麼是虛擬化？
 
