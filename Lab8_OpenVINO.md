@@ -1,13 +1,28 @@
 # Lab8: Ubuntu VM - Python虛擬環境應用: OpenVINO™ (2W)
 
+<a name="000"/>
 
+## 目錄(Table of Contents)
 
+[Lab 8-1 什麼是Intel OpenVINO-toolkit (簡稱OpenVINO)?](#111)
+
+[Lab 8-2 英特爾OpenVINO安裝與初體驗?](#222)
+
+[Lab 8-3 OpenVINO: 深度估計, 自動去換背](#333)
+
+[Lab 8-4 OpenVINO: 照片轉動漫, 風格遷移](#444)
+
+---
+<a name="111"/>
 
 ## Lab 8-1 什麼是Intel OpenVINO-toolkit (簡稱OpenVINO)?
 > OpenVINO 工具包涵蓋英特爾硬件上的計算機視覺和非計算機視覺工作負載。 它最大限度地提高性能並加速應用程序開發。 OpenVINO 旨在使用預先確定的函數庫和預先優化的內核來加速 AI 工作負載並加快上市時間。
 
 ![image](https://user-images.githubusercontent.com/89304181/176075145-b8a6d7ed-bc9f-424c-95e9-2e8f4c50c559.png)
 
+[return to content](#000) 
+---
+<a name="222"/>
 
 ## Lab 8-2 英特爾OpenVINO安裝與初體驗?
 
@@ -19,6 +34,10 @@
 
 ### Exp3: Egyptian cat (埃及貓)
 ![image](https://user-images.githubusercontent.com/89304181/176076213-19e60675-4c9d-4f06-afb4-3521feae9c89.png)
+
+[return to content](#000) 
+---
+<a name="333"/>
 
 ## Lab 8-3 OpenVINO: 深度估計, 自動去換背
 
@@ -36,6 +55,10 @@
 
 ![image](https://user-images.githubusercontent.com/89304181/176077077-a859c40a-5550-42ed-ba7e-05c4a40e2a76.png)
 
+[return to content](#000) 
+---
+<a name="444"/>
+
 ## Lab 8-4 OpenVINO: 照片轉動漫, 風格遷移
 
 ### 1. 照片轉動漫, 206-vision-paddlegan-anime.ipynb (自由發揮)
@@ -48,7 +71,7 @@
 
 ![image](https://user-images.githubusercontent.com/89304181/176077504-fc450e21-a859-4850-a330-99d51bbbc50c.png)
 
-
+[return to content](#000) 
 
 
 
