@@ -15,3 +15,7 @@ Understand and practice how to use VMWare to experience virtualization technolog
 
 
 ![image](https://user-images.githubusercontent.com/89304181/154801809-6d0f02a0-9b37-4066-accb-f46d4d8d7439.png)
+
+![image](https://user-images.githubusercontent.com/89304181/176071869-6ab43798-c9a0-469b-a5b3-d5dd47ac3371.png)
+
+Source: https://www.syscom.com.tw/ePaper_New_Content.aspx?id=617&EPID=236&TableName=sgEPArticle
