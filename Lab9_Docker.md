@@ -26,11 +26,12 @@
 
 
 
-##
-
-
-##
+## Lab 9-4 進入Docker Image的世界: Ubuntu 
 
 
 
-##
+## Lab 9-5 進入Docker Image的世界: Python3
+
+
+
+## Lab 9-6 最後, 來試試建立自己的Docker Image. Let’s go!!
