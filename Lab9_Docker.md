@@ -88,10 +88,6 @@
 
 <img width="698" alt="image" src="https://user-images.githubusercontent.com/89304181/178130924-df774ba8-5013-4270-9835-46873346f87b.png">
 
-## Lab 9-6 最後, 來試試建立自己的Docker Image. Let’s go!!
-
-<img width="703" alt="image" src="https://user-images.githubusercontent.com/89304181/178130979-d250f9a1-6722-4946-b6fc-19139f5b822b.png">
-
 [return to content](#000) 
 ---
 <a name="666"/>
