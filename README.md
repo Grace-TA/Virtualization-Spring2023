@@ -10,6 +10,8 @@ Understand and practice how to use VMWare & Docker to experience virtualization 
 * Lab7: Ubuntu VM - Python虛擬環境應用: AI自駕車路徑預測 (3W)
 * Lab8: Ubuntu VM - Python虛擬環境應用: OpenVINO™ (2W)
 * Lab9: Ubuntu VM - 作業系統層虛擬化的Docker (1W)
+* 期末: 分享 & 回顧 - https://www.youtube.com/watch?v=X_pYC_LtBFw
+
 
 ## 什麼是虛擬化？
 
