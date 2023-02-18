@@ -30,6 +30,6 @@
 ![image](https://user-images.githubusercontent.com/55008636/156907075-277f3aca-2f98-4e12-817e-46d4748d53ce.png)
 
 
-## Lab 1-3 第1個Linux VM: 安裝Ubuntu 20/04 LST
+## Lab 1-3 第1個Linux VM: 安裝Ubuntu 20.04 LST
 
 ![image](https://user-images.githubusercontent.com/55008636/156907197-94223767-011a-4788-abb5-5b8018656380.png)
