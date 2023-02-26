@@ -30,9 +30,11 @@
 ![image](https://user-images.githubusercontent.com/55008636/156907075-277f3aca-2f98-4e12-817e-46d4748d53ce.png)
 
 
-## Lab 1-3 第1個Linux VM: 安裝Ubuntu 20.04 LST
+## Lab 1-3A 第1個Linux VM: 安裝Ubuntu 20.04 LST by VMWare
 
 ![image](https://user-images.githubusercontent.com/55008636/156907197-94223767-011a-4788-abb5-5b8018656380.png)
+
+## Lab 1-3B 第1個Linux VM: 安裝Ubuntu 22.04 LST by VirtualBox
 
 ![image](https://user-images.githubusercontent.com/89304181/221395947-d2915d07-e082-47dc-87ba-538caa9cac29.png)
 
