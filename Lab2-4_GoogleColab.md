@@ -18,14 +18,14 @@ Google Colab 是一個基於雲端的編程環境，它運行在一個虛擬機�
 
 ## C. 一起來建立本課程的第一個雲端VM (Cloud-based Virtual Machine)
 
-### 如何確認Ubuntu版本?
+### C1. 如何確認Ubuntu版本?
 ![image](https://user-images.githubusercontent.com/55008636/226156685-9fdddbaf-ff0f-406e-8026-b899c19f5c03.png)
 
-### 如何確認Google VM的CPU, RAM, HD?
+### C2. 如何確認Google VM的CPU, RAM, HD?
 ![image](https://user-images.githubusercontent.com/55008636/226156704-da274016-6feb-45df-97c6-2cfdf15a2fcd.png)
 
-### 如何確認GPU Resources in Google VM?
+### C3. 如何確認GPU Resources in Google VM?
 ![image](https://user-images.githubusercontent.com/55008636/226156710-766671ac-4a80-4a88-8282-8a3957314666.png)
 
-###  如何由Notebook模式進入終端機模式(Terminal Mode)?
+### C4. 如何由Notebook模式進入終端機模式(Terminal Mode)?
 ![image](https://user-images.githubusercontent.com/55008636/226156716-a9ca7407-cfd1-4ef4-a1af-9ddfd7564613.png)
