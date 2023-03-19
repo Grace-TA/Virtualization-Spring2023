@@ -1,4 +1,4 @@
-# Lab 2-4 請加入一台Android的Virtual Machine
+# Lab 2-4 [參考] 請加入一台Android的Virtual Machine
 
 ## 什麼是Android? (Source: wiki)
 > Android（讀音：英：['ændrɔɪd]，美：[ˈænˌdrɔɪd]），中文使用者多以非官方名稱「安卓」稱之，[[註 1]](https://zh.wikipedia.org/wiki/Android#cite_note-14)是一個基於[Linux核心](https://zh.wikipedia.org/wiki/Linux%E6%A0%B8%E5%BF%83)與其他[開源軟體](https://zh.wikipedia.org/wiki/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6)的[開放原始碼](https://zh.wikipedia.org/wiki/%E9%96%8B%E6%94%BE%E5%8E%9F%E5%A7%8B%E7%A2%BC)的[行動作業系統](https://zh.wikipedia.org/wiki/%E8%A1%8C%E5%8B%95%E4%BD%9C%E6%A5%AD%E7%B3%BB%E7%B5%B1)，由[Google](https://zh.wikipedia.org/wiki/Google)成立的[開放手機聯盟](https://zh.wikipedia.org/wiki/%E9%96%8B%E6%94%BE%E6%89%8B%E6%A9%9F%E8%81%AF%E7%9B%9F)持續領導與開發。**
