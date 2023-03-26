@@ -16,6 +16,9 @@ Google Colab 是一個基於雲端的編程環境，它運行在一個虛擬機�
 
 所以，簡單來說，Google Colab 是一個在虛擬機器上運行的雲端編程環境。您可以利用 Google 提供的虛擬機器資源來執行代碼、訓練機器學習模型和分析數據。虛擬機器使得 Google Colab 能夠在網絡瀏覽器中提供一個快速、靈活且易於使用的編程環境。
 
+![image](https://user-images.githubusercontent.com/89304181/227757277-9a7dd3dc-3bf5-4b22-bb81-bd87b8938a6d.png)
+
+
 ## C. 一起來建立本課程的第一個雲端VM (Cloud-based Virtual Machine)
 
 ### C1. 如何確認Ubuntu版本?
