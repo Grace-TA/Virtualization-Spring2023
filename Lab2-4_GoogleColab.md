@@ -27,5 +27,8 @@ Google Colab 是一個基於雲端的編程環境，它運行在一個虛擬機�
 ### C3. 如何確認GPU Resources in Google VM?
 ![image](https://user-images.githubusercontent.com/55008636/226156710-766671ac-4a80-4a88-8282-8a3957314666.png)
 
+NVIDIA -  has paired 16 GB GDDR6 memory with the Tesla T4?
+
+
 ### C4. 如何由Notebook模式進入終端機模式(Terminal Mode)?
 ![image](https://user-images.githubusercontent.com/55008636/226156716-a9ca7407-cfd1-4ef4-a1af-9ddfd7564613.png)
