@@ -2,7 +2,13 @@
 
 ## Lab3-1. 為什麼要學Linux系統管理? + 起手式
 
+### Practiced by The VM of VMWare
 ![image](https://user-images.githubusercontent.com/89304181/162578801-aec7945d-7f88-4c06-b609-70afe11a7404.png)
+
+## Practiced by Google Colab
+
+![image](https://user-images.githubusercontent.com/89304181/230756621-82cacc77-b8de-4e8c-ab0c-2d3358f7d0c7.png)
+
 
 ## Lab3-2. Ubuntu環境介紹與練習
 
