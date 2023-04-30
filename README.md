@@ -1,4 +1,4 @@
-# 虛擬化系統與實作
+# 虛擬化系統與實作: Virtualization-Spring2023
 
 Understand and practice how to use VMWare & Docker to experience virtualization technology
 * Lab1: 起手式 - 虛擬化技術? 虛擬化技術機器? VMWare + 我的第一個Linux VM (2W)
