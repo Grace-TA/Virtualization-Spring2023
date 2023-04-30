@@ -64,6 +64,8 @@
 
 [return to content](#000) 
 
+<a name="333"/>
+
 ## [秘技] %%writefile, 可快速創建檔案
 
 > 在 Google Colab 上使用的 Jupyter Notebook 中，%%writefile 是一個魔術命令，用於將程式碼寫入檔案中。使用這個命令可以快速創建檔案並將程式碼寫入其中，非常方便!!
