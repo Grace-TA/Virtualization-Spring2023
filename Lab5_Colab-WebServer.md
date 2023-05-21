@@ -1,31 +1,20 @@
 # Lab5: Google Colab VM - 安裝 網頁伺服器與其應用 
 
-Undergoing
 
 ## Lab 5-1 安裝, 測試Apache Server, 並且架設自己的網站
 
-Undergoing
+![image](https://github.com/Grace-TA/Virtualization-Spring2023/assets/89304181/f7c12b1b-2da3-411b-a66a-868413a99c19)
 
+![image](https://github.com/Grace-TA/Virtualization-Spring2023/assets/89304181/33342680-3f71-4d7c-a7ad-f72bcc9512a4)
+
+![image](https://github.com/Grace-TA/Virtualization-Spring2023/assets/89304181/45422e88-f94d-4e6f-b196-9a434f7ac0b9)
+
+![image](https://github.com/Grace-TA/Virtualization-Spring2023/assets/89304181/6f70b674-0637-451c-a450-b1b701d46174)
+
+成功了! 但是有亂碼耶. 聽說下一個Lab5-2會有說明!!
 
 ## Lab 5-2 Apache 網頁伺服器起手式
 
-### 你在Apache Server的第1個Web Page (e.g., index.html) 
-
-![image](https://user-images.githubusercontent.com/89304181/167280759-8275fdea-59ef-46a0-b0ee-b4e34d4e8f50.png)
-
-> $ sudo gedit /var/www/html/index.html
-
-### 第2個Web Page: 建一個新的Web Page (e.g., exp2.html)
-
-![image](https://user-images.githubusercontent.com/89304181/167280761-51ec33e9-36d5-4b79-9cee-a8197082a1cc.png)
-
-### 第3個Web Page: 如何用目錄來管理不同的網頁呢? (e.g., /var/www/html/vt2022/exp2.html)
-
-![image](https://user-images.githubusercontent.com/89304181/167280764-b95fa2d0-97db-4ddc-ba89-cacf6cc76d9d.png)
-
-### 最後, 來玩點不一樣的, 可否把校網搬過來試試呢? 
-
-![image](https://user-images.githubusercontent.com/89304181/167281015-85530856-20e9-46f7-8071-d1b3f3a10e8d.png)
 
 
 ## Lab 5-3 Apache 網頁伺服器應用
@@ -33,12 +22,11 @@ Undergoing
 ### 實戰1 - 依自己的喜愛與經驗, 自由發揮製作或是建置二個您曾做過或是在看到不錯的網站, 並將此網路建於您的Apache Web Server中, 以下提供兩個Mini Project (i.e., Clock, BMI Calculator), 給大家參考一下.
 ### 1. Clock 
 
-![image](https://user-images.githubusercontent.com/89304181/167281184-b2c67edd-ae76-4069-a180-887e14d02a73.png)
-
+Undergoing
 
 ### 2. BMI Calculator
 
-![image](https://user-images.githubusercontent.com/89304181/167281188-b7a44c94-19d4-47de-a43a-f90172d922d6.png)
+Undergoing
 
 ### 實戰2 - 將自己上學期或這學期的Git Hub資源庫下載到您的Apache Web Server, 並且用Windows中的Browser來體驗一下. 細節可參考以下結果:
 
