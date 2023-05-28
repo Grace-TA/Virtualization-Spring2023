@@ -15,6 +15,21 @@
 
 ## Lab 5-2 Apache 網頁伺服器起手式
 
+### B1. index.html
+
+![image](https://github.com/Grace-TA/Virtualization-Spring2023/assets/89304181/25c4c629-4023-45fc-b393-3b60bf609a22)
+
+### B2. hello.html
+
+![image](https://github.com/Grace-TA/Virtualization-Spring2023/assets/89304181/9d4fd340-08b2-494a-813d-63a08e6ed34d)
+
+### B3. exp2.html
+
+![image](https://github.com/Grace-TA/Virtualization-Spring2023/assets/89304181/cdc7af3a-c4e6-4717-ba17-e323efe77b57)
+
+### B4. 最後, 來玩點不一樣的, 可否把校網搬過來試試呢? 
+
+![image](https://github.com/Grace-TA/Virtualization-Spring2023/assets/89304181/bbb0a216-5c53-417f-b093-3ae761d9d8c4)
 
 
 ## Lab 5-3 Apache 網頁伺服器應用
