@@ -61,4 +61,4 @@
 
 ### 實戰2 - 將自己上學期或這學期的Git Hub資源庫下載到您的Apache Web Server, 並且用Windows中的Browser來體驗一下. 細節可參考以下結果:
 
-![image](https://user-images.githubusercontent.com/89304181/169656674-0a6173cb-b8e9-4bc0-8251-c8cd871e4bd1.png)
+![image](https://github.com/Grace-TA/Virtualization-Spring2023/assets/89304181/9070699e-fdc2-4a1f-b53b-d1dec3ad5091)
