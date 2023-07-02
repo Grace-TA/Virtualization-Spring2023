@@ -8,8 +8,7 @@ Understand and practice how to use VMWare & Docker to experience virtualization 
 * Lab5: Ubuntu VM應用 - 安裝 Apache 網頁伺服器與其應用 (3W)
 * Lab6: Ubuntu VM應用 - Python虛擬環境介紹與應用 (2W)
 * Lab7: Google VM應用 - AI最經典火紅的應用之人臉偵測(Face Detection)實作 (1W)
-* Lab8: Google VM應用 - AI最經典火紅的應用之人臉辨識(Face Recognition)實作 (1W)
-* Lab9: Google VM應用 - AI最火紅應用之深度學習文字到圖像生成模型Stable Diffusion (1W)
+* Lab8: Google VM應用 - AI最經典火紅的應用之人臉辨識(Face Recognition)實作 (2W)
 * 期末: 分享 & 回顧 (07/23)
 
 
