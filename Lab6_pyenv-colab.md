@@ -15,4 +15,9 @@
 
 ### B. 最後, 來點小挑戰!! 2023.07.02
 
+![image](https://github.com/Grace-TA/Virtualization-Spring2023/assets/89304181/d01102cf-cad0-4620-bbb6-a0b7a8d898e0)
+
+![image](https://github.com/Grace-TA/Virtualization-Spring2023/assets/89304181/9411c58d-8693-4228-bc92-26814afe3934)
+
+![image](https://github.com/Grace-TA/Virtualization-Spring2023/assets/89304181/b05afc19-1a58-4b3f-a591-183d99d1cbef)
 
