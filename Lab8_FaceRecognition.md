@@ -7,6 +7,8 @@
 
 ![image](https://github.com/Grace-TA/Virtualization-Spring2023/assets/89304181/9f89a0dc-078c-44bf-a31b-9091eae56972)
 
+![image](https://github.com/Grace-TA/Virtualization-Spring2023/assets/89304181/f5c98f4b-752a-46b0-95dc-7e454f4cedfc)
+
 
 ## Lab 8-2 人臉識別 - 128個特徵向量
 
