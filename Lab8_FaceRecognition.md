@@ -15,3 +15,5 @@
 ![image](https://github.com/Grace-TA/Virtualization-Spring2023/assets/89304181/df5e1797-2336-4a41-8512-f03334aa3270)
 
 ![image](https://github.com/Grace-TA/Virtualization-Spring2023/assets/89304181/c5475677-cf61-4a1b-a4c5-f7c2bbfb2fcb)
+
+下載報告清單，寄給客戶, 上傳到GitHub: https://github.com/Grace-TA/Virtualization-Spring2023/blob/main/Reference/report1.xlsx
